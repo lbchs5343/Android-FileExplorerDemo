@@ -14,7 +14,7 @@ import com.magicianguo.fileexplorer.util.ToastUtils;
 import rikka.shizuku.Shizuku;
 
 public class FileExplorerServiceManager {
-    private static final String TAG = "FileExplorerServiceManager";
+    private static final String TAG = "FileSvcManager";
     private static boolean isBind = false;
 
     private static final Shizuku.UserServiceArgs USER_SERVICE_ARGS = new Shizuku.UserServiceArgs(
